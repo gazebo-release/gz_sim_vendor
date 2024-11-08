@@ -2,6 +2,11 @@
 Changelog for package gz_sim_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Bump version to 8.7.0
+* Contributors: Addisu Z. Taddese
+
 0.0.5 (2024-08-08)
 ------------------
 * Update vendored package version to 8.6.0
