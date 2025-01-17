@@ -2,6 +2,11 @@
 Changelog for package gz_sim_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Bump version to 8.8.0 (`#7 <https://github.com/gazebo-release/gz_sim_vendor/issues/7>`_)
+* Contributors: Addisu Z. Taddese
+
 0.0.6 (2024-11-08)
 ------------------
 * Bump version to 8.7.0
