@@ -2,8 +2,8 @@
 Changelog for package gz_sim_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.0 (2025-09-04)
+------------------
 * Bump version to 9.3.0 (`#13 <https://github.com/gazebo-release/gz_sim_vendor/issues/13>`_)
 * Contributors: Ian Chen
 
