@@ -6,7 +6,7 @@ project(gz_sim_vendor)
 set(LIB_VER_MAJOR 10)
 set(LIB_VER_MINOR 0)
 set(LIB_VER_PATCH 0)
-set(LIB_VER_SUFFIX "-pre2")
+set(LIB_VER_SUFFIX "")
 
 # Derived variables
 set(LIB_NAME gz-sim)
