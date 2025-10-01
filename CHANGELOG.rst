@@ -2,8 +2,8 @@
 Changelog for package gz_sim_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.4.2 (2025-10-01)
+------------------
 * Merge pull request `#19 <https://github.com/gazebo-release/gz_sim_vendor/issues/19>`_ from gazebo-release/releasepy/rolling/10.0.0
   Bump version to 10.0.0
 * Bump version to 10.0.0
