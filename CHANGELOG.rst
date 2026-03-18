@@ -2,8 +2,8 @@
 Changelog for package gz_sim_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.10 (2026-03-18)
+-------------------
 * Bump version to 8.11.0 (`#24 <https://github.com/gazebo-release/gz_sim_vendor/issues/24>`_)
   * Bump version to 8.11.0
   * Fix linter
