@@ -2,8 +2,8 @@
 Changelog for package gz_sim_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.5.2 (2026-08-05)
+------------------
 * Bump version to 10.5.0 (`#33 <https://github.com/gazebo-release/gz_sim_vendor/issues/33>`_)
 * Contributors: Arjo Chakravarty
 
